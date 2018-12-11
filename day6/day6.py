@@ -1,5 +1,5 @@
 import re
-
+#
 
 def coordinatesFromFile(fileName):
     coordinates = []
